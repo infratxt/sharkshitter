@@ -1,7 +1,9 @@
 /*
-  spaceinvaders.js
+  sharkshitter.js
 
-  the core logic for the space invaders game.
+  the core logic for the super shark shitter game.
+  
+  modification of spaceinvaders.js by Dave Kerr: http://www.dwmkerr.com/
 
 */
 
